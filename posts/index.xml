@@ -28,7 +28,9 @@
         
         
         
-          Post#This is the content of a new post which was created by hugo, and modified by me (Paulius).
+          Post#This is the content of a new post which was created by hugo, and modified by me (Paulius).
+Picture#Code block#This is a code of a flask script used in the 2nd lab.work:
+from flask import Flask app = Flask(__name__) @app.route(&amp;#39;/&amp;#39;) def hello_world(): return &amp;#39;Vardenio pavardenio flask puslapis&amp;#39; if __name__ == &amp;#34;__main__&amp;#34;: app.run(host=&amp;#34;0.0.0.0&amp;#34;, port=80) 
           
         
         </description>
